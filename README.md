@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![Alt Text](lol.png)
 ![Alt Text](lol.png)
+
+The Netflix app where you can add your watched movies.
